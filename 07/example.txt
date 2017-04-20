@@ -1,0 +1,84 @@
+A7-A6
+A2-A3
+A6-A5
+A1-A2
+H7-H5
+A2-A1
+H8-H6
+A1-A2
+H6-B6
+A2-A1
+r n b q k b n r 
+. p p p p p p p 
+p . . . . . . . 
+. . . . . . . . 
+P . . . . . . P 
+. R . . . . . . 
+. P P P P P P . 
+R N B Q K B N . 
+white pieces: 16
+black pieces: 16
+B6-B2
+C1-B2
+A5-A4
+B2-G7
+F8-G7
+A1-A2
+A8-A5
+B1-C3
+A8-A5
+C3-A4
+. . . q k b n r 
+r . p p p p p p 
+p . . . . . . . 
+n . . . . . . . 
+. P . . . . . P 
+. . . . . . . . 
+. . P P P P . . 
+R N B Q K . N . 
+white pieces: 12
+black pieces: 14
+A8-A4
+A2-B2
+A4-A3
+B2-B5
+A3-B3
+G2-F3
+B8-C6
+B5-H5
+C6-E5
+H5-E5
+. . . q k b n r 
+. . p p p p . p 
+. . . . . p . . 
+. . . . . . . . 
+. . . . r . . . 
+. . . . . . . . 
+. . P P P P . . 
+. . B . K . N . 
+white pieces: 7
+black pieces: 12
+C7-C6
+E5-C5
+C8-B7
+C5-D5
+C8-D7
+F1-H3
+E7-E6
+D5-D7
+E7-E6
+D7-F7
+. . . q k . n r 
+. . p p p p . p 
+. . . . . p . b 
+. . . . . . . . 
+. . . . . . . . 
+. . . . P . . . 
+. . . . . r . . 
+. . . . . . N . 
+white pieces: 2
+black pieces: 12
+E6-E5
+F7-E7
+E6-E5
+E7-E5
